@@ -9,6 +9,7 @@ int main(){
     int y= 20;
     int* c= &a;
 
+    
 
 cout<<"Alamat Memori:" << c <<endl;
 cout<<"Nilai Dari C: " << *c << endl;
